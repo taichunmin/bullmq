@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "types": ["node"],
+    "types": ["jest", "node"],
     "target": "ES2017",
     "module": "ES2020",
     "declaration": true,
